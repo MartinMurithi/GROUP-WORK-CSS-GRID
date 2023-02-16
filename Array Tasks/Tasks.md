@@ -1,0 +1,6 @@
+->Find duplicates in an array
+->Reverse an array (two ways to do that)
+->Find the least and highest value in an array
+->Move all the negative elements to one side
+->identify if a string is a palindrome (palindromes are words that read the same backwards e.g madam)
+->identify if a number is a palindrome 
